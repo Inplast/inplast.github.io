@@ -1,2 +1,2 @@
 # web
-https://inplast.github.io/web/
+https://inplast.github.io
